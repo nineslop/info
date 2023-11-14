@@ -4,7 +4,6 @@
 
 <a href="http://www.github.com/nineslop"><img src="https://github-readme-stats.vercel.app/api?username=nineslop&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="nineslop's GitHub stats" /></a>
 
-<a href="https://github.com/nineslop" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nineslop&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Skills 
 <p align="left">
