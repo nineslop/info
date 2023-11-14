@@ -2,5 +2,5 @@
 | :------:  | :------:  |
 
 <!---
-[![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/nineslop?bg_color=221a0f&text_color=29A284)](https://codestats.net/users/nineslop)
+[![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/nineslop?bg_color=221a0f&text_color=221a0f)](https://codestats.net/users/nineslop)
 -->
